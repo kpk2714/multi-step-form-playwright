@@ -1,7 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Aug 26 19:48:09 IST 2024","Mon Aug 26 19:48:15 IST 2024","6809","chromium","enterTechnicalData.spec.js","Enter Data in Technical Skill Page","","","The User can able to enter data in Technical Skill Form",""
-"passed","Mon Aug 26 18:48:47 IST 2024","Mon Aug 26 18:48:54 IST 2024","7202","chromium","enterWorkExperience.spec.js","Enter Data in Work Experience Page","","","The User can able to enter data in Work Experience Form",""
-"passed","Mon Aug 26 10:37:23 IST 2024","Mon Aug 26 10:37:35 IST 2024","12511","chromium","enterFamilyData.spec.js","Enter Data in Personal Form","","","The User can able to enter data in Personal Form",""
-"passed","Mon Aug 26 10:22:56 IST 2024","Mon Aug 26 10:23:17 IST 2024","20971","chromium","enterPersonalData.spec.js","Enter Data in Personal Form","","","The User can able to enter data in Personal Form",""
-"passed","Mon Aug 26 10:36:46 IST 2024","Mon Aug 26 10:37:09 IST 2024","22727","chromium","enterEducationData.spec.js","Enter Data in Education Form","","","The User can able to enter data in Education Form",""
-"passed","Wed Aug 28 22:38:33 IST 2024","Wed Aug 28 22:38:40 IST 2024","7337","chromium","enterLanguageData.spec.js","Enter Data in Work Experience Page","","","The User can able to enter data in Work Experience Form",""
+"passed","Mon Sep 09 17:08:23 IST 2024","Mon Sep 09 17:08:35 IST 2024","12010","chromium","enterHelpDeskData.spec.js","Submit a Query","","","The User can able to submit a query",""

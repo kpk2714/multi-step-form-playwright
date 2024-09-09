@@ -13,6 +13,7 @@ export class HomePage{
         this.candidateRegForm = '//h3[contains(text(),"Candidate Registration Form")]';
         this.headerUsername = '//h1[@class="fonthome mt-5"]';
         this.bodyUsername = '//h2[@class="font-bold float-right ml-auto"]';
+        this.helpdeskBtn = '//a[contains(text(),"Trainee HelpDesk")]';
     }
 
     async verifyLogin(){
@@ -44,5 +45,9 @@ export class HomePage{
         const bodyUsername = await this.page.locator(this.bodyUsername);
         await expect(headerUsername).toContainText('Krishna Pada Kar');
         await expect(bodyUsername).toContainText('Krishna Pada Kar');
+    }
+
+    async clickOnHelpDeskBtn(){
+        await this.page.click(this.helpdeskBtn);
     }
 }
